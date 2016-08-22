@@ -1,0 +1,28 @@
+{
+  "name": "quotily",
+  "version": "1.0.0",
+  "description": "A command line application for posting quotes to any endpoints that accepts a post request e.g. twitter status, facebook status etc.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/andela-sdamian/quotily"
+  },
+  "keywords": [
+    "Command",
+    "Line",
+    "Tweet",
+    "command",
+    "line",
+    "Facebook",
+    "command",
+    "line",
+    "Instagram",
+    "command",
+    "line"
+  ],
+  "author": "Damian Simon Peter",
+  "license": "MIT"
+}
